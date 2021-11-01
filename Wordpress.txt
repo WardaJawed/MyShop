@@ -1,0 +1,12 @@
+1.Install WordPress on localhost - Step By Step Guide
+2.How to Install Theme in WordPress on localhost
+3.How to Create a page in Wordpress
+4.How to Create a New Post in Wordpress
+5.How to Create Post Category
+6.How to Limit Posts per Page in Wordpress
+7.How to Create a Separate Page for Blog Posts in WordPress
+8.How to Set Any Page As Homepage in Wordpress
+9.How to Approve, Edit, or Delete Comments in WordPress
+10.How To Enable and Disable Comments In WordPress Pages And Posts
+11.How to Use Widgets in Wordpress
+12.How to add gallery and also add plugins
